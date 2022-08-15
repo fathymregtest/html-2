@@ -1,5 +1,5 @@
 {
-  "name": "@mpjbusiness/my-second-project-public-web-2",
+  "name": "@fathymregtest/my-first-project-public-web",
   "version": "0.0.0",
   "description": "",
   "main": "index.html",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpjbusiness/my-second-project-public-web-2.git"
+    "url": "git+https://github.com/fathymregtest/my-first-project-public-web.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mpjbusiness/my-second-project-public-web-2/issues"
+    "url": "https://github.com/fathymregtest/my-first-project-public-web/issues"
   },
-  "homepage": "https://github.com/mpjbusiness/my-second-project-public-web-2#readme"
+  "homepage": "https://github.com/fathymregtest/my-first-project-public-web#readme"
 }
